@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = csson@student.unimelb.edu.au
+	name = Charlie Song
